@@ -1,0 +1,15 @@
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/bin/Debug/net6.0/Hello CircleCI
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/bin/Debug/net6.0/Hello CircleCI.deps.json
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/bin/Debug/net6.0/Hello CircleCI.runtimeconfig.json
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/bin/Debug/net6.0/Hello CircleCI.dll
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/bin/Debug/net6.0/Hello CircleCI.pdb
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/Hello CircleCI.csproj.AssemblyReference.cache
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/Hello CircleCI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/Hello CircleCI.AssemblyInfoInputs.cache
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/Hello CircleCI.AssemblyInfo.cs
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/Hello CircleCI.csproj.CoreCompileInputs.cache
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/Hello CircleCI.dll
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/refint/Hello CircleCI.dll
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/Hello CircleCI.pdb
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/Hello CircleCI.genruntimeconfig.cache
+/Users/asha.burathoki/Documents/workspace/Hello CircleCI/obj/Debug/net6.0/ref/Hello CircleCI.dll
